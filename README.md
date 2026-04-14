@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
+| [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -225,9 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
