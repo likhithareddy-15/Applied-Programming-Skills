@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 | [1763-longest-nice-substring](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/1763-longest-nice-substring) |
 ## Queue
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -320,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -384,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
