@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
