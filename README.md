@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0746-min-cost-climbing-stairs) |
 ## String
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
