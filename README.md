@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/likhithareddy-15/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
